@@ -1,0 +1,12 @@
+.container {
+  .move-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    .move {
+      background-color: rgb(171, 200, 200);
+      padding: 6px;
+      border-radius: 10px;
+    }
+  }
+}

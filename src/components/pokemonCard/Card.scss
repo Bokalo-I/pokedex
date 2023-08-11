@@ -1,0 +1,11 @@
+.pokemon-card {
+  background-color: rgb(171, 200, 200);
+  padding: 10px;
+  max-width: 400px; /* Наприклад, встановіть бажану максимальну ширину */
+  min-width: 300px;
+}
+
+.pokemon-card img {
+  width: 100%;
+  height: auto;
+}
